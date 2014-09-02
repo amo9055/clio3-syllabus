@@ -7,7 +7,7 @@ title: Participants
 
 [Amanda Regan](http://amanda-regan.com) | [regan008](https://github.com/regan008) at GitHub | @[regan008](https://twitter.com/regan008) on Twitter
 
-[Sara Collini](http://saracollini.wordpress.com) | [scollini](https://github.com/scollini) at GitHub | [@Sara_Collini](https://twitter.com/Sara_Collini) on Twitter
+[Sara Collini](http://saracollini.wordpress.com) | [scollini](https://github.com/scollini) at GitHub | @[Sara_Collini](https://twitter.com/Sara_Collini) on Twitter
 
 [Anne Ladyem McDivitt](http://anneladyem.wordpress.com) | [amcdivitt](https://github.com/amcdivitt) at GitHub | @[anneladyem](https://twitter.com/anneladyem) on Twitter
 
