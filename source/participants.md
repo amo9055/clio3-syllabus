@@ -16,3 +16,6 @@ title: Participants
 [Peter Jones](http://petercarrjones.com/) | [petercarrjones](https://github.com/petercarrjones/) at GitHub | @[petercarrjones](https://twitter.com/petercarrjones) on Twitter
 
 [Jannelle Legg](http://jannellelegg.com) | [jannellelegg](https://github.com/jannellelegg) at GitHub | @[jannellelegg](https://twitter.com/jannellelegg) on Twitter
+
+[Allison Meyer O’Connor](http://ehearth.org) | [amo9055](https://github.com/amo9055) at GitHub 
+
